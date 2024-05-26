@@ -1,3 +1,3 @@
-#Food LandingPage Website
+Food LandingPage Website
 
 Made by Iqboljon
